@@ -12,7 +12,7 @@
 ```javascript
 // 安装
 
-npm i nodeptt -g
+npm i nodeppt -g
 
 // 预览
 

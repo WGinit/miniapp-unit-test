@@ -16,10 +16,10 @@ npm i nodeppt -g
 
 // 预览
 
-nodeptt serve unit.md
+nodeppt serve unit.md
 
 // 打包
 
-nodeptt build unit.md
+nodeppt build unit.md
 
 ```
